@@ -1,0 +1,5 @@
+This simple program expects two lists of files as arguments and renames the second list to match the filenames of the first. This is useful to match subtitles files to the respective video files.
+
+e.g.
+
+subtitlematch.py *.avi *.srt
