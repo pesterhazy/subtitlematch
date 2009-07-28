@@ -14,7 +14,7 @@ for o, a in opts:
 count = len(args)
 
 if count == 0:
-    print 'Syntax: subitltematch.py [--really-act] a1 a2 a3 b1 b2 b3'
+    print 'Syntax: subtitlematch.py [--really-act] *.avi *.srt'
     exit(1)
 
 if count % 2 != 0:
